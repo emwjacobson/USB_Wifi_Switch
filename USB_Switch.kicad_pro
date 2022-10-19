@@ -235,11 +235,13 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "Library"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "USB _Switch.kicad_pro",
+    "filename": "USB_Switch.kicad_pro",
     "version": 1
   },
   "net_settings": {
