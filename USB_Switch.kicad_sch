@@ -228,6 +228,12 @@
     (path "/24a3ebde-e6d3-496d-9465-03105f52e4c1/4bb42c00-404c-4904-a2ce-0d194784202a"
       (reference "C4") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
+    (path "/4fe24247-d6eb-4bd9-871f-ba2a853fda03/a072b0ff-1f7a-45c3-af75-d1bbb7cec40b"
+      (reference "C?") (unit 1) (value "10uF") (footprint "")
+    )
+    (path "/4fe24247-d6eb-4bd9-871f-ba2a853fda03/bc753aac-1971-416a-8edc-ba432ac8a22c"
+      (reference "C?") (unit 1) (value "10uF") (footprint "")
+    )
     (path "/24a3ebde-e6d3-496d-9465-03105f52e4c1/c02ac389-2a34-4075-9414-0632f99b7f28"
       (reference "D1") (unit 1) (value "GREEN") (footprint "")
     )
