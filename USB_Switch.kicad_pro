@@ -385,13 +385,14 @@
           "/MOSFET Board/5V_IN",
           "/MOSFET Board/5V_OUT_1",
           "/MOSFET Board/5V_OUT_2",
-          "/MOSFET Board/M_3v3"
+          "/MOSFET Board/M_3v3",
+          "GND"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.4,
-        "via_diameter": 0.6,
-        "via_drill": 0.4,
+        "track_width": 0.8,
+        "via_diameter": 1.0,
+        "via_drill": 0.6,
         "wire_width": 6.0
       }
     ],
