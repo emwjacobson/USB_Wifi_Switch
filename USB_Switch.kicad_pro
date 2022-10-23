@@ -387,6 +387,8 @@
           "/MOSFET Board/5V_IN",
           "/MOSFET Board/5V_OUT_1",
           "/MOSFET Board/5V_OUT_2",
+          "/MOSFET Board/5V_PRER_1",
+          "/MOSFET Board/5V_PRER_2",
           "/MOSFET Board/M_3v3",
           "GND"
         ],

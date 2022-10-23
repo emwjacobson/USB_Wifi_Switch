@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Smart USB Port")
+    (date "2022-10-23")
+    (rev "0.1")
+  )
+
   (lib_symbols
     (symbol "Connector_Generic:Conn_01x06" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 0 7.62 0)
@@ -233,11 +239,6 @@
   (wire (pts (xy 137.795 56.515) (xy 141.605 56.515))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid f8469aba-c13f-4d40-9f16-0122e784b727)
-  )
-
-  (text "TODO:\nProgramming circuit" (at 40.64 139.7 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 3eb8abdc-bf2d-4cb2-9915-4b4a357a944a)
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x08") (at 132.715 56.515 0) (mirror y) (unit 1)
