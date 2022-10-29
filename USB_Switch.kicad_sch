@@ -457,10 +457,10 @@
       (reference "C6") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/24a3ebde-e6d3-496d-9465-03105f52e4c1/c02ac389-2a34-4075-9414-0632f99b7f28"
-      (reference "D1") (unit 1) (value "GREEN") (footprint "LED_SMD:LED_0805_2012Metric")
+      (reference "D1") (unit 1) (value "GREEN") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/24a3ebde-e6d3-496d-9465-03105f52e4c1/d0f3e619-6654-4874-99a7-48f2454c1917"
-      (reference "D2") (unit 1) (value "GREEN") (footprint "LED_SMD:LED_0805_2012Metric")
+      (reference "D2") (unit 1) (value "GREEN") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/8bfa3c3e-525b-42d4-a44c-28e3053eeb97"
       (reference "J1") (unit 1) (value "Conn_01x06") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical")
