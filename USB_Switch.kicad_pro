@@ -385,11 +385,11 @@
         "nets": [
           "/Control Board/C_3v3",
           "/MOSFET Board/5V_IN",
-          "/MOSFET Board/5V_OUT_1",
-          "/MOSFET Board/5V_OUT_2",
           "/MOSFET Board/5V_PRER_1",
           "/MOSFET Board/5V_PRER_2",
           "/MOSFET Board/M_3v3",
+          "/MOSFET Board/SW_GND_1",
+          "/MOSFET Board/SW_GND_2",
           "GND"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
