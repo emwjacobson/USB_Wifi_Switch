@@ -11,3 +11,7 @@ When attempting to use the mosfet to switch power on to the output I realized th
 ## v0.1.1
 
 This is the "patch" to fix the problem with the n-channel mosfet. Still has yet to be panelized and ordered, but the KiCAD project is correct.
+
+## v0.1.2
+
+Once I assembled v0.1.1, I realized that I had the wiring for the Female USB swapped! In addition, the pin labels for the mosfet still reflected the p-channel orientation, which caused them to be swapped as well.
