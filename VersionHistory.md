@@ -15,3 +15,7 @@ This is the "patch" to fix the problem with the n-channel mosfet. Still has yet 
 ## v0.1.2
 
 Once I assembled v0.1.1, I realized that I had the wiring for the Female USB swapped! In addition, the pin labels for the mosfet still reflected the p-channel orientation, which caused them to be swapped as well.
+
+## v0.2.0
+
+Redesigned layout to be a bit more optimized, as well as put the power monitering IC on the correct side of the USB plug.

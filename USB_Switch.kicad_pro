@@ -44,8 +44,8 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "45_degree_only": true,
-          "min_clearance": 0.0
+          "45_degree_only": false,
+          "min_clearance": 0.127
         }
       },
       "diff_pair_dimensions": [
@@ -56,7 +56,9 @@
         }
       ],
       "drc_exclusions": [
-        "courtyards_overlap|43886201|113228001|0ba85294-62a1-45c2-bb7a-cdd7a3952564|e5cecde9-1560-44dd-a37a-789b21b7d168"
+        "courtyards_overlap|165051999|95228001|415e22ea-bafb-41d4-8081-cb4e2c30e283|c86ad86c-d308-41b0-9bc3-7fc49e816701",
+        "silk_over_copper|139905000|63500000|d3c4efb9-2a11-4905-bfb9-8efa2afa7192|5d65aa66-ef4c-4c39-9d61-47de6dffabb0",
+        "silk_over_copper|152195000|63500000|d3c4efb9-2a11-4905-bfb9-8efa2afa7192|81fa679c-a92a-4d03-8dba-7b7ddbe3b862"
       ],
       "meta": {
         "version": 2
@@ -385,11 +387,11 @@
         "nets": [
           "/Control Board/C_3v3",
           "/MOSFET Board/5V_IN",
-          "/MOSFET Board/5V_PRER_1",
-          "/MOSFET Board/5V_PRER_2",
           "/MOSFET Board/M_3v3",
-          "/MOSFET Board/SW_GND_1",
-          "/MOSFET Board/SW_GND_2",
+          "/MOSFET Board/Switch Circuit/POST_RES",
+          "/MOSFET Board/Switch Circuit/PRE_MOS",
+          "/MOSFET Board/Switch Circuit1/POST_RES",
+          "/MOSFET Board/Switch Circuit1/PRE_MOS",
           "GND"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
@@ -466,6 +468,14 @@
     [
       "24a3ebde-e6d3-496d-9465-03105f52e4c1",
       "Control Board"
+    ],
+    [
+      "8f1aeea5-4090-4028-8a77-c1ba35396f5c",
+      "Switch Circuit"
+    ],
+    [
+      "a516606a-66fe-439c-92fa-b175859aff9a",
+      "Switch Circuit1"
     ]
   ],
   "text_variables": {}
