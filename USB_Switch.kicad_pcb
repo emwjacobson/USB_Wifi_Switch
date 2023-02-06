@@ -1194,7 +1194,7 @@
       (net 21 "/Control Board/C_RX") (pinfunction "Pin_7") (pintype "passive") (tstamp 17f53ec4-9be0-4fb0-9a99-672dccf27e8c))
     (pad "8" thru_hole oval locked (at 0 17.78) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 22 "/Control Board/C_TX") (pinfunction "Pin_8") (pintype "passive") (tstamp 149c923d-6bfb-4443-928c-8ce70b045d32))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
