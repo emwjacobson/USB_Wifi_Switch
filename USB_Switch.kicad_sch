@@ -7,7 +7,7 @@
   (title_block
     (title "Wifi USB Port")
     (date "2023-02-05")
-    (rev "0.2.0")
+    (rev "0.2.1")
   )
 
   (lib_symbols
@@ -514,6 +514,9 @@
     )
     (path "/24a3ebde-e6d3-496d-9465-03105f52e4c1/fb34a191-100c-4c8a-b01c-2a1f2d2dec95"
       (reference "R10") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/4fe24247-d6eb-4bd9-871f-ba2a853fda03/ae6bf646-b66b-4f78-ba4e-7b721157abf0"
+      (reference "R11") (unit 1) (value "100") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/24a3ebde-e6d3-496d-9465-03105f52e4c1/db0ccadb-e97e-4947-b977-7019ffd20650"
       (reference "SW1") (unit 1) (value "PRGM") (footprint "Library:TS-1187A-B-A-B")

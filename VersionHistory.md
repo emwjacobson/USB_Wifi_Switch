@@ -19,3 +19,7 @@ Once I assembled v0.1.1, I realized that I had the wiring for the Female USB swa
 ## v0.2.0
 
 Redesigned layout to be a bit more optimized, as well as put the power monitering IC on the correct side of the USB plug.
+
+## v0.2.1
+
+Added place for resistor between D+ and D-
