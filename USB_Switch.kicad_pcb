@@ -1792,7 +1792,7 @@
   (gr_text "SDA" (at 160.02 72.898) (layer "B.SilkS") (tstamp b44c0167-50fe-4c67-94fb-5ce2e6f52544)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "v0.2.0" (at 161.29 125.73) (layer "F.SilkS") (tstamp 15ac6ca2-8d6d-4f7f-8d3b-a3e2b642d350)
+  (gr_text "v0.2.1" (at 161.29 125.73) (layer "F.SilkS") (tstamp 15ac6ca2-8d6d-4f7f-8d3b-a3e2b642d350)
     (effects (font (size 1.524 1.524) (thickness 0.254)))
   )
   (gr_text "TX" (at 160.528 114.935) (layer "F.SilkS") (tstamp 1978a2b8-52f8-461d-95e9-9b9f25148dbe)
