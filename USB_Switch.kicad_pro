@@ -385,9 +385,7 @@
         "microvia_drill": 0.1,
         "name": "Power",
         "nets": [
-          "/Control Board/C_3v3",
           "/MOSFET Board/5V_IN",
-          "/MOSFET Board/M_3v3",
           "/MOSFET Board/Switch Circuit/POST_RES",
           "/MOSFET Board/Switch Circuit/PRE_MOS",
           "/MOSFET Board/Switch Circuit1/POST_RES",

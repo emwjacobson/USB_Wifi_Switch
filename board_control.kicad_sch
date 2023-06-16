@@ -6,8 +6,8 @@
 
   (title_block
     (title "Wifi USB Port")
-    (date "2023-02-05")
-    (rev "0.2.1")
+    (date "2023-06-15")
+    (rev "0.3.0")
   )
 
   (lib_symbols

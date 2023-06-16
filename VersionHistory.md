@@ -23,3 +23,11 @@ Redesigned layout to be a bit more optimized, as well as put the power moniterin
 ## v0.2.1
 
 Added place for resistor between D+ and D-
+
+## v0.3.0 Changes
+
+### TODO
+
+- USB ESD Protection
+- Single PCB Design
+  - ESP8266 on backside
